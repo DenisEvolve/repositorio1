@@ -1,2 +1,2 @@
-Este texto se modifica para explicación
+Editamos este fichero
 Esto es un fichero con un texto de prueba para genera un conflicto
