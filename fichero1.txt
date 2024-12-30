@@ -1,1 +1,2 @@
 Esto es un fichero con un texto de prueba para genera un conflicto
+Añadimos contenido al fichero para realizar pull request
