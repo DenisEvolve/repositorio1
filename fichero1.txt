@@ -1,1 +1,1 @@
-Esto es un fichero de prueba CONFLICTO
+Esto es un texto del fichero 1 para crear un conflicto
